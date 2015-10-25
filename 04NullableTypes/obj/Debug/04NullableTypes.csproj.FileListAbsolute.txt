@@ -1,0 +1,5 @@
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\UPRPrimDataTypesVariables\04NullableTypes\bin\Debug\04NullableTypes.exe.config
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\UPRPrimDataTypesVariables\04NullableTypes\bin\Debug\04NullableTypes.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\UPRPrimDataTypesVariables\04NullableTypes\bin\Debug\04NullableTypes.pdb
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\UPRPrimDataTypesVariables\04NullableTypes\obj\Debug\04NullableTypes.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\UPRPrimDataTypesVariables\04NullableTypes\obj\Debug\04NullableTypes.pdb
